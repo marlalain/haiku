@@ -6,6 +6,6 @@ publish_date: 2022-10-13
 
 working on the CI
 
-takes so long to push anything
+takes so much time, the workflows
 
-i am about to sleep
+i'm about to sleep
